@@ -23,6 +23,7 @@ url: kharryyanto.github.io
 github_username: kharryyanto
 minimal_mistakes_skin: contrast
 search: true
+search_provider: google
 breadcrumbs: true
 
 # Build settings
