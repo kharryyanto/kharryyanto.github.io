@@ -57,6 +57,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
   name   : "Kevin Harryyanto"
@@ -65,7 +66,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "kharryyanto.github.io"
+      url: "https://kharryyanto.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kharryyanto"
@@ -108,3 +109,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+google:
+  search_engine_id: 014355514947662651938:dsa1rijexg9
