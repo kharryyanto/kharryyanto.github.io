@@ -18,7 +18,7 @@ title: Kevin Harryyanto
 name: Kevin Harryyanto
 # email:
 description: Showcase and Journal
-url: kharryyanto.github.io
+url: kevin-harryyanto.me
 # twitter_username: username
 github_username: kharryyanto
 minimal_mistakes_skin: contrast
@@ -67,7 +67,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kharryyanto.github.io"
+      url: "https://kevin-harryyanto.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kharryyanto"
