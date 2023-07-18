@@ -17,8 +17,9 @@ locale: en-US
 title: Kevin Harryyanto
 name: Kevin Harryyanto
 # email:
-description: Showcase and Journal
-url: kevin-harryyanto.me
+description: AI Engineer, Writer, Proud Overthinker
+url: http://www.kevin-harryyanto.me
+baseurl: "/"
 # twitter_username: username
 github_username: kharryyanto
 minimal_mistakes_skin: contrast
@@ -67,7 +68,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://kevin-harryyanto.me"
+      url: "https://www.kevin-harryyanto.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kharryyanto"
