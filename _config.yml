@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Kevin Harryyanto"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "An Informations Systems student."
+  bio    : "AI Engineer, Writer, Proud Overthinker"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
